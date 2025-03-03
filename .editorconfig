@@ -2,6 +2,7 @@
 
 # top-most EditorConfig file
 root = true
+charset = utf-8
 
 # Unix-style newlines with a newline ending every file
 [*]
